@@ -1,0 +1,4 @@
+int32 duration   # Time (In Seconds) In Which The BB8
+                 # Will Continue Moving In Circles
+---
+bool success     # Was It Achieved
